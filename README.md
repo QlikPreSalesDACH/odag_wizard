@@ -7,6 +7,9 @@ It will do the work that takes hours in just a couple of minutes.
 
 [![ODAG Wizard](https://raw.githubusercontent.com/QlikPreSalesDACH/odag_wizard/master/img/guide/youtube.png)](https://youtu.be/4zxWgFuVFQs)
 
+Version 1.1
+* Updated icons for June 2019 release
+
 Version: 1.0
 * Beta release
 
